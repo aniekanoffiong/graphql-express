@@ -2,10 +2,12 @@
 
 A simple implementation of GraphQL using Express.js
 
-##To Setup
+## Setup
 1. Ensure you have nodejs installed. Clone the repo: 
 
-`git clone https://github.com/aniekanoffiong/graphql-express.git`
+```
+git clone https://github.com/aniekanoffiong/graphql-express.git
+```
 
 2. Change directory into the app directory and install dependencies
 
