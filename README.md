@@ -22,4 +22,4 @@ npm install
 
  ## CREDIT
 
- (Scotch.IO Tutorial)[https://scotch.io/tutorials/a-practical-graphql-getting-started-guide-with-nodejs]
+ [Scotch.IO Tutorial](https://scotch.io/tutorials/a-practical-graphql-getting-started-guide-with-nodejs)
